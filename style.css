@@ -1,0 +1,389 @@
+body{
+    position: absolute;
+    left: 33%;
+    background-color: #eee;
+}
+
+#curri{
+    background-color: #FFFFFF ;
+    position: absolute;
+    width: 496px;
+    height: 777px;
+    top: 0;
+    left: 0;
+}
+
+#folha{
+    position: absolute;
+    width: 329px;
+    height: 686px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+   
+}
+
+#foto{
+    width: 120px;
+    height: 120px;
+    float: left;
+    border-radius: 100%;
+    margin-top: 30px;
+    border: 0.5px solid black;
+}
+
+#nome{
+    position: absolute;
+    width: 118px;
+    height: 13px;
+    left: 94px;
+    top: 51px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #19304F;
+    margin: 0;
+}
+
+#end{
+    position: absolute;
+    width: 91px;
+    height: 10px;
+    left: 100px;
+    top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 12px;
+    color: #19304F;
+}
+
+#informacoes{
+    position: absolute;
+    width: 157px;
+    height: 777px;
+    left: 331px;
+    top: 0px;
+
+background: #19304F;
+}
+
+#foto-div{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 29px;
+    top: 38px;
+    border-radius: 100%;
+}
+
+#perfil{
+    position: absolute;
+    width: 75px;
+    height: 15px;
+    left: 30px;
+    top: 123px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #19304F;
+    border: 1px solid #FFFFFF;
+}
+
+#p1{
+    position: absolute;
+    width: 275px;
+    height: 72px;
+    left: 30px;
+    top: 148px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: justify;
+    color: #222222;
+    border: 1px solid #FFFFFF;
+}
+
+#p1 p{
+    margin: 0;
+}
+
+#exp{
+    position: absolute;
+    width: 194.84px;
+    height: 15px;
+    left: 25px;
+    top: 256px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #19304F;
+}
+
+#ul{
+    position: absolute;
+    width: 285px;
+    height: 16px;
+    left: 25px;
+    top: 271px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-align: justify;
+    
+}
+
+#ul ul{
+    margin: 0;
+    padding: 0px 0px 0px 20px;
+}
+
+#ul li{
+    margin: 0;
+    
+}
+
+#edu{
+    position: absolute;
+    width: 194.84px;
+    height: 15px;
+    left: 27px;
+    top: 256px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #19304F;
+}
+
+#ul2{
+    position: absolute;
+    width: 285px;
+    height: 108px;
+    left: 27px;
+    top: 281px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: justify;
+
+    color: #222222;
+}
+
+#ul2 ul{
+    margin: 0;
+    padding: 0px 0px 0px 20px;
+}
+
+#proj{
+    position: absolute;
+    width: 188px;
+    height: 15px;
+    left: 27px;
+    top: 451px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #19304F;
+}
+
+#proje1{
+    position: absolute;
+    width: 275px;
+    height: 111px;
+    left: 6px;
+    top: 460px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: justify;
+
+    color: #222222;
+}
+
+
+#cont{
+    position: absolute;
+    width: 75px;
+    height: 15px;
+    left: 18px;
+    top: 91px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#infocont{
+    position: absolute;
+width: 126px;
+height: 57px;
+left: 18px;
+top: 128px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 15px;
+
+
+text-align: justify;
+
+color: #FFFFFF;
+}
+
+#git{
+    position: absolute;
+    left: 13%;
+    right: 22.43%;
+    top: 25.32%;
+    bottom: 74.26%;
+    
+}
+
+.icone1{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5;
+    font-size: 23px;
+    text-decoration: none;
+
+}
+
+#linkedin{
+    position: absolute;
+    left: 40%;
+    right: 22.43%;
+    top: 25.32%;
+    bottom: 74.26%;
+
+    
+}
+
+.icone2{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+#conhe{
+    position: absolute;
+    width: 89px;
+    height: 15px;
+    left: 18px;
+    top: 263px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#html{
+    position: absolute;
+    width: 30px;
+    height: 11px;
+    left: 29px;
+    top: 289px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #FFFFFF;
+}
+
+#listra1{
+    position: absolute;
+    width: 94px;
+    height: 2px;
+    left: 29px;
+    top: 301px;
+
+    background: #FFFFFF;
+}
+
+#css{
+    
+    position: absolute;
+    width: 23px;
+    height: 10px;
+    left: 29px;
+    top: 312px;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 12px;
+    
+    color: #FFFFFF;
+}
+
+#listra2{
+    position: absolute;
+    width: 94px;
+    height: 2px;
+    left: 29px;
+    top: 323px;
+
+    background: #FFFFFF;
+}
